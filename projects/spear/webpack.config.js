@@ -10,7 +10,7 @@ sharedMappings.register(
 
 module.exports = {
   output: {
-    uniqueName: "spear",
+    uniqueName: "dcloud",
     publicPath: "auto",
   },
   optimization: {
