@@ -1,3 +1,3 @@
 # RollwithDruid.com
 
-This is the administrative interface to rapidly create and manage hosted eco-fridnly websites in the cloud.
+This is the administrative interface to rapidly create and manage hosted eco-friendly websites in the cloud.
