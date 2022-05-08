@@ -1,3 +1,3 @@
 # RollwithDruid.com
 
-This is the administrative interface to rapidly create and manage hosted eco-friendly websites in the cloud.
+SaaS platform for rapid development and deployment of eco-friendly websites (druids) to the cloud.
