@@ -1,6 +1,4 @@
-<img width="162" alt="Screen Shot 2022-06-13 at 4 33 36 PM" src="https://user-images.githubusercontent.com/73197190/173441169-f755a471-099d-4a4b-a9d2-0bcc0e66fc10.png">
-
-
+<img width="152" alt="Screen Shot 2022-06-13 at 1 09 55 AM" src="https://user-images.githubusercontent.com/73197190/173441236-6157b938-385e-4eaa-885e-692e753a0dac.png">
 
 # Summary
 
