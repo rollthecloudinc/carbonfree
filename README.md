@@ -2,6 +2,4 @@
 
 # Summary
 
-Cloud hosted dashboard for no code creation of sustainable websites and mobile apps built on top of the [druid platform](https://github.com/rollthecloudinc/druid).
-
-https://github.com/ng-druid/platform
+Cloud hosted dashboard for no code creation of sustainable websites and mobile apps built on top of [druid](https://github.com/rollthecloudinc/druid).
