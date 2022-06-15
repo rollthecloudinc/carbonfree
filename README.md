@@ -6,3 +6,4 @@ Cloud hosted dashboard for no code creation of [sustainable websites](https://su
 
 * transparency
 * accuracy
+* usability
