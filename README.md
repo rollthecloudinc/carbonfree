@@ -8,3 +8,5 @@ Cloud hosted dashboard for no code creation of [sustainable websites](https://su
 * accuracy
 * usability
 * extensibility
+
+[Donations welcomed](https://www.paypal.com/fundraiser/charity/4587641)
