@@ -10,3 +10,7 @@ Cloud hosted dashboard for no code creation of [sustainable websites](https://su
 * extensibility
 
 [Donations welcomed](https://www.paypal.com/fundraiser/charity/4587641)
+
+# Update
+
+This repo will be repalced with project limestone. LimeStone is the official name of cloud hosted cms for druid.
