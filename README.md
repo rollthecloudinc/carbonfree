@@ -14,3 +14,11 @@ Cloud hosted dashboard for no code creation of [sustainable websites](https://su
 # Update
 
 This repo will be repalced with project limestone. LimeStone is the official name of cloud hosted cms for druid.
+
+* Solid
+* Rock
+* Tough
+* Sustainable
+* Hard
+* Robust
+* Historic used in sculptures and other art
