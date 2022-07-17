@@ -1,14 +1,19 @@
-# Summary
+# Druid / Next generation CMS / by RollTheCloud Inc.
 
-Cloud hosted dashboard for no code creation of [sustainable websites](https://sustainablewebdesign.org/) and mobile apps built on top of [druid](https://github.com/rollthecloudinc/druid). Quickly create web experiences without worry or ambiguity of impact to the environment.
+Built from scratch, based on 15 years of experience developing CMSs. Druid uses Angular framework, with a sustainable, environment friendly distributed cloud architecture and reimagined ui.
 
-* transparency
-* accuracy
-* usability
-* extensibility
+## Smart
 
-[Donations welcomed](https://www.paypal.com/fundraiser/charity/4587641)
+Quickly go from prototype to green, environmentally friendly website in hours instead of weeks or months. Under the hood rests a sophisticated  design engine that can easily render pages stored as JSON too modern, sleek web experiences running completely in the browser.
 
-old copy:
+## Distributed
 
-Rapid production of energy efficient sustainable websites for all to enjoy including our planet. Champion the 100% low energy renewable web slaying harmful tech burying in the carbon saturated past.
+Follows the principles of green software engineering. Websites hosted on the Microsoft Azure cloud – the cleanest, lowest carbon cloud around. Optional AWS service integration available following the sustainability pillar of the well-architected framework.
+
+## Collaborative
+
+All RollTheCloud Inc. projects are publicly available hosted on Github. Druid core is closed for modification but open for extension. Unlimited customizations is made possible by an extension architecture built into core architecture using cutting edge module federation approach.
+
+## Polyglot
+
+Supports any modern JavaScript framework (angular, react, vue, svelte, etc.). Druid core is built on top of the battle tested Angular framework by Google. However, druids can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
