@@ -3,7 +3,7 @@
 
 # Druid / Next generation CMS / by RollTheCloud Inc.
 
-Managed druids for everyone!
+Managed [druids](https://github.com/rollthecloudinc/druid) for everyone!
 
 Built from scratch, based on 15 years of experience developing CMSs. Druid uses Angular framework, with a sustainable, environment friendly distributed cloud architecture and reimagined ui.
 
