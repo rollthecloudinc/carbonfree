@@ -3,8 +3,6 @@
 
 # Druid / Next generation CMS / by RollTheCloud Inc.
 
-Managed [druids](https://github.com/rollthecloudinc/druid) for everyone!
-
 Built from scratch, based on 15 years of experience developing CMSs. Druid uses Angular framework, with a sustainable, environment friendly distributed cloud architecture and reimagined ui.
 
 ## Smart
@@ -22,3 +20,5 @@ All RollTheCloud Inc. projects are publicly available hosted on Github. Druid co
 ## Polyglot
 
 Supports any modern JavaScript framework (angular, react, vue, svelte, etc.). Druid core is built on top of the battle tested Angular framework by Google. However, druids can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
+
+Visit the [druid](https://github.com/rollthecloudinc/druid) for everyone!) project page for more info.
