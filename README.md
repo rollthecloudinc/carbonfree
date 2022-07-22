@@ -1,3 +1,6 @@
+<img width="454" alt="Screen Shot 2022-07-22 at 6 24 29 PM" src="https://user-images.githubusercontent.com/90408337/180576299-a8884daf-fae8-4746-98c3-7d82d752bbeb.png">
+
+
 # Druid / Next generation CMS / by RollTheCloud Inc.
 
 Built from scratch, based on 15 years of experience developing CMSs. Druid uses Angular framework, with a sustainable, environment friendly distributed cloud architecture and reimagined ui.
