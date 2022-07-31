@@ -7,9 +7,7 @@ Built from scratch, based on 15 years of experience developing CMSs. Druid uses 
 
 ## Smart
 
-Build and design sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Druid has your back taking care of all technical details of sustainaible web development allowing you to focus completely on building the site of your dreams.
-
-Quickly go from prototype to green, environmentally friendly website in hours instead of weeks or months. Under the hood rests a sophisticated  design engine that can easily render pages stored as JSON too modern, sleek web experiences running completely in the browser.
+Build and design sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Druid has your back taking care of all technical details of sustainaible web development allowing you to focus completely on building the fastest site of your dreams.
 
 ## Distributed
 
