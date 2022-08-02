@@ -1,7 +1,7 @@
 <img width="454" alt="Screen Shot 2022-07-22 at 6 24 29 PM" src="https://user-images.githubusercontent.com/90408337/180576299-a8884daf-fae8-4746-98c3-7d82d752bbeb.png">
 
 
-# Druid / Next generation CMS / by RollTheCloud Inc.
+# Druid / sustainable web publishing made easy / by RollTheCloud Inc.
 
 Github, cloud native built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing CMSs. Druid uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
 
