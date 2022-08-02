@@ -11,7 +11,7 @@ Build and design sustainaible websites directly in your favorite browser on the 
 
 ## Distributed
 
-Follows the principles of green software engineering. Websites hosted on the Microsoft Azure cloud – the cleanest, lowest carbon cloud around. Optional AWS service integration available following the sustainability pillar of the well-architected framework. Decentralized hosting and data storage also available on the internet computer.
+Built around the principles of green software engineering from the ground up. Websites hosted on the Microsoft Azure cloud – the cleanest, lowest carbon cloud around. Optional AWS service integration available following the sustainability pillar of the well-architected framework. Decentralized hosting and data storage also available on the internet computer.
 
 ## Collaborative
 
