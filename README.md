@@ -7,7 +7,7 @@ Github, cloud native built from scratch, based on [15 years of experience](https
 
 ## Smart
 
-Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Druid has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on building the fastest site of your dreams.
+Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Druid has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
 
 ## Sustainable
 
