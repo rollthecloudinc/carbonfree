@@ -22,3 +22,5 @@ All RollTheCloud Inc. projects are publicly available hosted on Github. Druid co
 Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Druid core is built on top of the battle tested Angular framework by Google. However, druids can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
 
 Visit the [druid](https://github.com/rollthecloudinc/druid) project page for more info.
+
+Motivation for this page made possible by [Fleet](https://www.jetbrains.com/fleet/) which we are anxiously awaiting the release.
