@@ -9,7 +9,7 @@ Built from scratch, based on 15 years of experience developing CMSs. Druid uses 
 
 Build and design sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Druid has your back taking care of all technical details of sustainaible web development allowing you to focus completely on building the fastest site of your dreams.
 
-## Distributed
+## Sustainable
 
 Built around the principles of green software engineering from the ground up. Websites hosted on the Microsoft Azure cloud – the cleanest, lowest carbon cloud around. Optional AWS service integration available following the sustainability pillar of the well-architected framework. Decentralized hosting and data storage also available on the internet computer.
 
