@@ -15,7 +15,7 @@ Built around the [principles of green software engineering](https://principles.g
 
 ## Collaborative
 
-All RollTheCloud Inc. projects are publicly available hosted on Github. Druid core is closed for modification but open for extension. Unlimited customizations is made possible by an extension architecture built into core architecture using cutting edge module federation approach.
+All RollTheCloud Inc. projects are publicly available hosted on Github. Druid core is closed for modification but open for extension. Unlimited customizations is made possible by an extension architecture built into core architecture using [cutting edge module federation approach](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/).
 
 ## Flexible
 
