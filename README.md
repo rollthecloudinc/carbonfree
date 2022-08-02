@@ -3,7 +3,7 @@
 
 # Druid / Next generation CMS / by RollTheCloud Inc.
 
-Built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing CMSs. Druid uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
+Github native built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing CMSs. Druid uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
 
 ## Smart
 
