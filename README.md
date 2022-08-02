@@ -11,7 +11,7 @@ Exercise full creative control realizing sustainaible websites directly in your 
 
 ## Sustainable
 
-Built around the principles of green software engineering from the ground up. Websites hosted on the Microsoft Azure cloud levaging the giants most comprehensive, actionable sustainability strategy. Optional AWS service integration available following the sustainability pillar of the well-architected framework.
+Built around the principles of green software engineering from the ground up. Websites hosted on the Microsoft Azure cloud levaging the giants most comprehensive, actionable sustainability strategy. AWS cloud service integration such as; Open Search following the sustainability pillar of the well-architected framework.
 
 ## Collaborative
 
