@@ -17,7 +17,7 @@ Built around the principles of green software engineering from the ground up. We
 
 All RollTheCloud Inc. projects are publicly available hosted on Github. Druid core is closed for modification but open for extension. Unlimited customizations is made possible by an extension architecture built into core architecture using cutting edge module federation approach.
 
-## Polyglot
+## Flexible
 
 Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Druid core is built on top of the battle tested Angular framework by Google. However, druids can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
 
