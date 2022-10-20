@@ -7,7 +7,7 @@ Github, cloud native built from scratch, based on [15 years of experience](https
 
 ## Smart
 
-Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. aRTCy has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
+Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. The RTC (Roll the Cloud) has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
 
 ## Sustainable
 
@@ -15,7 +15,7 @@ Built around the [principles of green software engineering](https://principles.g
 
 ## Collaborative
 
-All RollTheCloud Inc. projects are publicly available hosted on Github. aRTCy core is closed for modification but open for extension. Unlimited customizations is made possible by using [cutting edge module federation](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) native to platform core.
+All RollTheCloud Inc. projects are publicly available hosted on Github. Core is closed for modification but open for extension. Unlimited customizations is made possible by using [cutting edge module federation](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) native to platform core.
 
 ## Flexible
 
