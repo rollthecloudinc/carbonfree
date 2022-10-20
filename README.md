@@ -1,13 +1,13 @@
 <img width="454" alt="Screen Shot 2022-07-22 at 6 24 29 PM" src="https://user-images.githubusercontent.com/90408337/180576299-a8884daf-fae8-4746-98c3-7d82d752bbeb.png">
 
 
-# Druid / Next Gen CMS / by RollTheCloud Inc.
+# aRTCy / Next Gen CMS / by RollTheCloud Inc.
 
-Github, cloud native built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing CMSs. Druid uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
+Github, cloud native built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing CMSs. aRTCy uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
 
 ## Smart
 
-Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Druid has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
+Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. aRTCy has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
 
 ## Sustainable
 
@@ -15,10 +15,10 @@ Built around the [principles of green software engineering](https://principles.g
 
 ## Collaborative
 
-All RollTheCloud Inc. projects are publicly available hosted on Github. Druid core is closed for modification but open for extension. Unlimited customizations is made possible by using [cutting edge module federation](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) native to platform core.
+All RollTheCloud Inc. projects are publicly available hosted on Github. aRTCy core is closed for modification but open for extension. Unlimited customizations is made possible by using [cutting edge module federation](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) native to platform core.
 
 ## Flexible
 
-Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Druid core is built on top of the battle tested Angular framework by Google. However, druids can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
+Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Druid core is built on top of the battle tested Angular framework by Google. However, aRTCy sites can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
 
 Visit the [druid](https://github.com/rollthecloudinc/druid) project page for more info.
