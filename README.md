@@ -19,6 +19,6 @@ All RollTheCloud Inc. projects are publicly available hosted on Github. Core is 
 
 ## Flexible
 
-Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Druid core is built on top of the battle tested Angular framework by Google. However, Slayful sites can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
+Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Slayful built on top of the battle tested Angular framework by Google. However, Slayful sites can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
 
 Visit the [druid](https://github.com/rollthecloudinc/druid) project page for more info.
