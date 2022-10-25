@@ -1,8 +1,5 @@
 <img width="852" alt="Screen Shot 2022-10-25 at 1 05 11 AM" src="https://user-images.githubusercontent.com/73197190/197687191-60a8b7bb-9015-451c-8f69-d359178111eb.png">
 
-
-# Carbonfreed / Next Gen CMS / by RollTheCloud Inc.
-
 Github, cloud native built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing CMSs. Carbonfreed uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
 
 ## Smart
