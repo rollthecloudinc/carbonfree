@@ -1,13 +1,13 @@
 <img width="454" alt="Screen Shot 2022-07-22 at 6 24 29 PM" src="https://user-images.githubusercontent.com/90408337/180576299-a8884daf-fae8-4746-98c3-7d82d752bbeb.png">
 
 
-# Slayful / Next Gen CMS / by RollTheCloud Inc.
+# Carbonfree / Next Gen CMS / by RollTheCloud Inc.
 
-Github, cloud native built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing CMSs. Slayful uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
+Github, cloud native built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing CMSs. Carbonfree uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
 
 ## Smart
 
-Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Slayful has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
+Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Carbonfree has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
 
 ## Sustainable
 
@@ -19,6 +19,6 @@ All RollTheCloud Inc. projects are publicly available hosted on Github. Core is 
 
 ## Flexible
 
-Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Slayful built on top of the battle tested Angular framework by Google. However, Slayful sites can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
+Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Carbonfree is built on top of the battle tested Angular framework by Google. However, Slayful sites can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
 
 Visit the [druid](https://github.com/rollthecloudinc/druid) project page for more info.
