@@ -1,4 +1,4 @@
-<img width="454" alt="Screen Shot 2022-07-22 at 6 24 29 PM" src="https://user-images.githubusercontent.com/90408337/180576299-a8884daf-fae8-4746-98c3-7d82d752bbeb.png">
+<img width="852" alt="Screen Shot 2022-10-25 at 1 05 11 AM" src="https://user-images.githubusercontent.com/73197190/197687191-60a8b7bb-9015-451c-8f69-d359178111eb.png">
 
 
 # Carbonfreed / Next Gen CMS / by RollTheCloud Inc.
