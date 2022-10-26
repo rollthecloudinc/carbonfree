@@ -2,7 +2,7 @@ Github, cloud native built from scratch, based on [15 years of experience](https
 
 ## Smart
 
-Exercise full creative control realizing sustainaible websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Slayful has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
+Exercise full creative control realizing carbon free websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Slayful has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
 
 ## Sustainable
 
@@ -10,7 +10,7 @@ Built around the [principles of green software engineering](https://principles.g
 
 ## Collaborative
 
-All RollTheCloud Inc. projects are publicly available hosted on Github. Core is closed for modification but open for extension. Unlimited customizations is made possible by using [cutting edge module federation](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) native to Slayful front-end core aka: Quell.
+All RollTheCloud Inc. projects are publicly available hosted on Github. Core is closed for modification but open for extension. Unlimited customizations is made possible by using [cutting edge module federation](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) native to Slayful page builder Quell.
 
 ## Flexible
 
