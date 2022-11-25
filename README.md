@@ -10,10 +10,10 @@ Built around the [principles of green software engineering](https://principles.g
 
 ## Collaborative
 
-All RollTheCloud Inc. projects are publicly available hosted on Github. Core is closed for modification but open for extension. Unlimited customizations is made possible by using [cutting edge module federation](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) native to Slayful page builder Quell.
+All RollTheCloud Inc. projects are publicly available hosted on Github. Core is closed for modification but open for extension. Unlimited customizations is made possible by using [cutting edge module federation](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) native to Carbon Free page builder Quell.
 
 ## Flexible
 
-Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Slayful is built on top of the battle tested Angular framework by Google. However, Slayful websites and apps aka (carbonfreed) can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
+Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Slayful is built on top of the battle tested Angular framework by Google. However, Carbon Free websites and apps aka (carbonfreed) can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
 
 Visit the [Quell](https://github.com/rollthecloudinc/quell) project page for more info.
