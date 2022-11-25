@@ -14,6 +14,6 @@ All RollTheCloud Inc. projects are publicly available hosted on Github. Core is 
 
 ## Flexible
 
-Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Carbon Free is built on top of the battle tested Angular framework by Google. However, Carbon Free websites and apps aka (carbonfreed) can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
+Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Carbon Free is built on top of the battle tested Angular framework by Google. However, Carbon Free websites and apps aka can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
 
 Visit the [Quell](https://github.com/rollthecloudinc/quell) project page for more info.
