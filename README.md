@@ -6,7 +6,7 @@ Exercise full creative control realizing carbon free websites directly in your f
 
 ## Sustainable
 
-Built around the [principles of green software engineering](https://principles.green/) from the ground up. Websites hosted on the Microsoft Azure cloud leveraging the giants most comprehensive, actionable [sustainability policy](https://www.microsoft.com/en-us/sustainability/approach). Traditional database replaced by our CarbonHack22 award winning carbon aware data store HEDGE that also tracks SCI. Providing users with real time actionable intelligance to reduce and offset emissions of applications built.
+Built around the [principles of green software engineering](https://principles.green/) from the ground up. Websites hosted on the Microsoft Azure cloud leveraging the giants most comprehensive, actionable [sustainability policy](https://www.microsoft.com/en-us/sustainability/approach). Traditional database replaced by our CarbonHack22 award winning carbon aware data store HEDGE that also tracks SCI. Providing users with real time actionable intelligance to reduce and offset emissions of applications built on Carbon Free.
 
 ## Collaborative
 
