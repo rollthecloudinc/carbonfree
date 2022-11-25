@@ -6,7 +6,7 @@ Exercise full creative control realizing carbon free websites directly in your f
 
 ## Sustainable
 
-Built around the [principles of green software engineering](https://principles.green/) from the ground up. Websites hosted on the Microsoft Azure cloud leveraging the giants most comprehensive, actionable [sustainability policy](https://www.microsoft.com/en-us/sustainability/approach). Includes AWS cloud integration with services such as; s3, Open Search following the [sustainability pillar](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html) of the [well-architected framework](https://aws.amazon.com/architecture/well-architected/).
+Built around the [principles of green software engineering](https://principles.green/) from the ground up. Websites hosted on the Microsoft Azure cloud leveraging the giants most comprehensive, actionable [sustainability policy](https://www.microsoft.com/en-us/sustainability/approach). Instead of a traditional database Carbon Free is backed by our CarbonHack22 award winning carbon aware data store HEDGE.
 
 ## Collaborative
 
@@ -16,4 +16,4 @@ All RollTheCloud Inc. projects are publicly available hosted on Github. Core is 
 
 Compatible with modern JavaScript framework (angular, react, vue, svelte, etc.). Carbon Free is built on top of the battle tested Angular framework by Google. However, Carbon Free websites and apps aka can also be used as app shells for micro-frontends created in other mvvm JavaScript frameworks.
 
-Visit the [Quell](https://github.com/rollthecloudinc/quell) project page for more info.
+Visit the [HEDGE](https://github.com/rollthecloudinc/hedge) and [Quell](https://github.com/rollthecloudinc/quell) project page for more info.
