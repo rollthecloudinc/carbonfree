@@ -4,7 +4,7 @@ Carbon Free is a cutting-edge, eco-friendly and climate-aware Github platform th
 
 ## Smart
 
-Exercise full creative control realizing carbon free websites directly in your favorite browser on the cloud without installing any software. Advanced users can web build offline working locally with minimal impact on the environment. Carbon Free has your back taking care of all technical details of [sustainaible web development](https://sustainablewebdesign.org/) allowing you to focus completely on delivering the best web experiences to your audience.
+Take command of your creative process and effortlessly create carbon-free websites using your preferred browser on the cloud, no software installation required. For those with advanced skills, you can even build websites offline, locally, with minimal environmental impact. With Carbon Free, all the technical aspects of  [sustainaible web development](https://sustainablewebdesign.org/)  are taken care of, allowing you to fully concentrate on delivering the ultimate web experiences to your audience. Trust us to have you covered in terms of sustainable practices while you focus on ensuring the best web experience for your audience.
 
 ## Sustainable
 
