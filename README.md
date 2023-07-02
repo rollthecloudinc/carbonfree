@@ -1,6 +1,6 @@
 ![carbonfree-logo-new](https://github.com/rollthecloudinc/carbonfree/assets/73197190/ecd799e5-8767-4973-97cb-01ef4574063a)
 
-Github, cloud native built from scratch, based on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) developing on the web Carbon Free uses [Angular](https://angular.io/) framework, with a sustainable, environment friendly distributed cloud and inherit extensible architecture.
+Carbon Free is a cutting-edge, eco-friendly and climate-aware Github platform that has been meticulously developed from scratch, drawing on [15 years of experience](https://www.linkedin.com/in/toddzmijewski/) in web development. Built using the [Angular](https://angular.io/) framework, Carbon Free boasts a sustainable and environment-friendly distributed cloud infrastructure, along with an inherit extensible architecture.
 
 ## Smart
 
